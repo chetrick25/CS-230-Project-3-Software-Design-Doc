@@ -1,0 +1,11 @@
+The Gaming Room is a client who originally created an Android game called "Draw It or Lose It" which is a guessing game based on images which are progressively revealed to the players. They reached out to our
+company in hopes to expand their game to other platforms and were hoping to reduce some development costs by having us develop some code and design a template to help with further development of the game. In my
+developing of the documentation, I think I did a good job of showing the development process through a UML Diagram which depicts the programming layout of the game's programming. The diagram, though simple, does
+well to make the process digestible for those less familiar with full blown coding, similar to pseudocode. I would say that working through a design document was helpful in developing the code because it gives a
+sort of roadmap to the development. It makes my job easier by allowing me to use the template to set goals for the programming side of things. If I were to revise a part of the document, I would come back to the 
+evaluation table once I've become more fluent in the aspects of client-side, server-side, and development tools for different platforms. I've used Windows exclusively for my whole life and the only other operating
+system I have ever touched was an older Apple OS during a class in high school. With more experience, it would be a good test of my knowledge to come back and put more detail into that evaluation table. I was able
+to interpet the user's needs by considering games I've interacted with in my life and how they behave on different platforms. Knowing the needs of the user is extremely important because at the end of the day,
+they have the final say in how successful a game is. No amount of initial investment into a project will make up for something that isn't fun and easy to pickup, so understanding what a user thinks while interacting
+with your game is key to retaining them. When I approached designing the software, I made a strong effort to follow the UML diagram and was sure to meet all of its code specifications. In the future, I would likely
+follow a similar thought process of putting the client's desires into documentation, visually mapping out the pieces of the program, and then designing the code to meet expectations.
